@@ -20,3 +20,9 @@ This is the first UI/learning prototype. Next milestones can add reviewed Marath
 
 ## Important
 Educational content and pronunciations should be reviewed by Marathi and primary-school teachers before public release. Progress currently stays in the learner's browser; there is no backend, login, teacher dashboard, or cloud database yet.
+
+
+## Touch-friendly tracing practice
+- Trace uppercase English letters A–Z using a finger on mobile or a mouse on desktop.
+- Practice Marathi vowels (स्वर) and consonants (व्यंजने), including क्ष and ज्ञ.
+- Clear the drawing and move to the next letter; practice count stays in the browser.
