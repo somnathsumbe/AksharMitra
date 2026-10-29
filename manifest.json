@@ -1,0 +1,24 @@
+{
+  "name": "अक्षरमित्र — AksharMitra",
+  "short_name": "अक्षरमित्र",
+  "description": "अक्षरांपासून ज्ञानाकडे! मुलांसाठी मजेदार शिकण्याचे अॅप.",
+  "lang": "mr-IN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f7fc",
+  "theme_color": "#0758b7",
+  "categories": [
+    "education",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
