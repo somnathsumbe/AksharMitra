@@ -26,3 +26,12 @@ Educational content and pronunciations should be reviewed by Marathi and primary
 - Trace uppercase English letters A–Z using a finger on mobile or a mouse on desktop.
 - Practice Marathi vowels (स्वर) and consonants (व्यंजने), including क्ष and ज्ञ.
 - Clear the drawing and move to the next letter; practice count stays in the browser.
+
+
+## Tracing improvements
+- Live, colorful ink follows finger or mouse movement on the tracing canvas.
+- Capital English A–Z, lowercase English a–z, Marathi vowels and consonants.
+- Small English words (cat, bat, dog, sun, pen, map, hen, cup, red, box) with left-to-right direction arrows.
+
+## Publish with GitHub Pages
+The repository includes `.github/workflows/deploy-pages.yml` to publish the root static site automatically. The first-time Pages site enablement requires repository Pages settings permission. Open Settings → Pages and select **GitHub Actions** as the build/deployment source; then the workflow can deploy on each push to `main`.
